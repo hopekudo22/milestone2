@@ -1,0 +1,21 @@
+---
+title: "Milestone 2"
+author: "Hope Kudo"
+date: "9/24/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r project 1}
+
+#The first project I looked at was "Investors In The US" by Oren Rimon Or. I believe that her project was super informative and it was great that she took into account how different areas and demographics would experience economic mobility rates. She was also able to match a lot of relevant statistics in her code such as migration, crime rates, and ethnicity which added a lot of substance to the data. I think one thing that could have been improved on would be the display of the graphs. There is a bit of overplotting despite the data being sectioned off into zones and being divided by income quartiles, thus, I think she could have used geom_jitter to reduce the overplotting or utilize the alpha command to make the data points transparent. Additionally, I think aesthetically, it could have been interesting to see the graphs overlayed on top of each other. For example, I think something interesting would be to color code by each income quartile to show the distribution across a single graph. Overall, I think it was a great project!
+```
+
+```{r project 2}
+
+#The second project that I looked at was the "First-Year Blocking Group Project" by Dasha Metropolitansky, Adiya Abdilkhay, Ilkin Bayramli, April Chen, Alistair Gluck, Christopher Milne, Neil Schrage and Stephanie Yao. I think this project went super in-depth into the blocking/linking and house assignment process which I found interesting to learn about. It's amazing that they were able to gather and clean through the data obtained by their survey, the Crimson data, scraping athletic teams' sites, and so forth. I think the comparisons between their collected data and the Crimson data was intriguing since those who took the survey are somewhat self-selecting compared to something widely published like the Crimson so the differences in answers didn't surprise me. I think that the comparisons could be improved if they were to have inserted a visual such as a bar graph rather than listing the differences in data, this would standardize the information so the user wouldn't have to click on multiple buttons to compare data. I also think that in their section on "Who Gets Quadded," the data would have been easier to understand if they had included percentages or a composition breakdown. Alternatively, they didn't include the link to their GitHub repo on this project so it's unfortunate that I wasn't able to delve in through their code.
+
+```
